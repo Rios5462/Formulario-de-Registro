@@ -1,0 +1,1 @@
+detector formulario de registro
